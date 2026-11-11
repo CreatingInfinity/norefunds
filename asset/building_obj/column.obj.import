@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dp1ykdj3xr62j"
+path="res://.godot/imported/column.obj-10c728d8aa91778c6ee2381de2ac2990.mesh"
+
+[deps]
+
+files=["res://.godot/imported/column.obj-10c728d8aa91778c6ee2381de2ac2990.mesh"]
+
+source_file="res://asset/building_obj/column.obj"
+dest_files=["res://.godot/imported/column.obj-10c728d8aa91778c6ee2381de2ac2990.mesh", "res://.godot/imported/column.obj-10c728d8aa91778c6ee2381de2ac2990.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

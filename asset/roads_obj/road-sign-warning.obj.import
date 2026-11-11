@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://co1sc08e1iuwd"
+path="res://.godot/imported/road-sign-warning.obj-bbe8de381e4a0d6e0cad168b840e60b8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/road-sign-warning.obj-bbe8de381e4a0d6e0cad168b840e60b8.mesh"]
+
+source_file="res://asset/roads_obj/road-sign-warning.obj"
+dest_files=["res://.godot/imported/road-sign-warning.obj-bbe8de381e4a0d6e0cad168b840e60b8.mesh", "res://.godot/imported/road-sign-warning.obj-bbe8de381e4a0d6e0cad168b840e60b8.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
